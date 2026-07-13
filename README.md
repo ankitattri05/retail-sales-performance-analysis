@@ -38,7 +38,22 @@ A few questions kept appearing throughout the analysis:
 | Profit Margin | 11.62% |
 
 ---
+## Dashboard Preview
 
+### Executive Dashboard
+![Executive Dashboard](Dashboard/Dashboard/Screenshots/01_Executive_Dashboard.png)
+
+### Market & Regional Analysis
+![Market Analysis](Dashboard/Dashboard/Screenshots/02_Market_Regional_Analysis.png)
+
+### Product Performance Analysis
+![Product Analysis](Dashboard/Dashboard/Screenshots/03_Product_Performance_Analysis.png)
+
+### Customer & Shipping Analysis
+![Customer Shipping](Dashboard/Dashboard/Screenshots/04_Customer_Shipping_Analysis.png)
+
+### Discount & Profitability Analysis
+![Discount Analysis](Dashboard/Dashboard/Screenshots/05_Discount_Profitability_Analysis.png)
 ## Tools Used
 
 - **Excel** for data preparation and validation.
