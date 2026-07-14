@@ -1,5 +1,16 @@
 # Retail Sales Performance Analysis
 
+## Repository Contents
+
+| Component | Included |
+|-----------|----------|
+| Dataset | ✅ |
+| SQL Analysis Scripts | ✅ |
+| Power BI Dashboard (.pbix) | ✅ |
+| Dashboard PDF Export | ✅ |
+| Dashboard Screenshots | ✅ |
+| Business Requirements Document | ✅ |
+
 Sales grew from **$2.26M in 2011** to **$4.30M in 2014**.
 
 Profit grew too, but not at the same pace.
@@ -66,16 +77,16 @@ A few questions kept appearing throughout the analysis:
 
 ```text
 Dashboard/
+├── Screenshots
 ├── Retail_Sales_Performance_Analysis.pbix
-├── Retail_Sales_Performance_Analysis.pdf
-└── Screenshots/
-
-SQL/
-├── Data Cleaning
-├── Exploratory Analysis
-└── KPI Queries
+└── Retail_Sales_Performance_Analysis.pdf
 
 Documentation/
-├── Business Requirements
-├── Data Dictionary
-└── Analysis Notes
+└──  Retail_Sales_Analytics_BRD.pdf
+
+SQL/
+├── Data_Validation_and_Cleaning.sql
+├── Exploratory_Analysis.sql
+└── KPI_and_Business_Analysis.sql
+
+
