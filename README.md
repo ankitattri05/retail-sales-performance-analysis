@@ -85,8 +85,8 @@ Documentation/
 └──  Retail_Sales_Analytics_BRD.pdf
 
 SQL/
-├── Data_Validation_and_Cleaning.sql
-├── Exploratory_Analysis.sql
-└── KPI_and_Business_Analysis.sql
+├── 01_Data_Validation_and_Cleaning.sql
+├── 02_Exploratory_Analysis.sql
+└── 03_KPI_and_Business_Analysis.sql
 
 
