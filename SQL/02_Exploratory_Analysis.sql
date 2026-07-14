@@ -3,7 +3,7 @@
 -- Exploratory Analysis
 -- =====================================================
 
-> **Market Performance
+-- Market Performance
 
 -- Sales by market
 
@@ -25,7 +25,7 @@ FROM store
 GROUP BY region
 ORDER BY total_profit DESC;
 
-> **Product Performance
+-- Product Performance
 
 -- Category performance
 
@@ -60,7 +60,7 @@ HAVING SUM(profit) < 0
 ORDER BY total_profit ASC
 LIMIT 50;
 
-> **Customer Analysis
+-- Customer Analysis
 
 -- Top customers by sales
 
@@ -85,7 +85,7 @@ FROM store
 GROUP BY segment
 ORDER BY total_sales DESC;
 
-> **Time Analysis
+-- Time Analysis
 
 -- Monthly sales trend
 
@@ -111,8 +111,7 @@ SELECT
 FROM store
 GROUP BY year
 ORDER BY year;
-
-> **Ranking Analysis
+-- Ranking Analysis
 
 -- Product contribution ranking using CTE and window function
 
