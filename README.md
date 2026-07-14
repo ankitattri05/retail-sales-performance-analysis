@@ -10,7 +10,7 @@ Europe generated less revenue than APAC, but stayed close on profit.
 
 Discounts above **30%** were responsible for some of the largest losses in the business.
 
-Faster shipping options improved delivery performance but increased cost-to-sales ratios.
+Shipping costs more than doubled between Standard Class and Same Day delivery, but margins barely moved.
 
 The objective of the analysis was straightforward:
 
